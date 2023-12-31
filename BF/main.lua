@@ -1,0 +1,1 @@
+print("Fuk Ur Mum")
